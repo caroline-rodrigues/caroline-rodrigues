@@ -5,9 +5,6 @@
 
 Graduated in Analysis and Development Systems, Frontend developer with 9+ years of experience in drawing, projecting and maintaining Web applications using HTML, CSS, JS, Angular, React, Vue, IONIC and others frameworks.
 
-I am interested in interface designer, user experience, web development best practices, mobile and game creation.
-
-
 
 ## About Me
 
