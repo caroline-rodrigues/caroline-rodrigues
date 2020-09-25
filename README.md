@@ -3,7 +3,7 @@
 
 ## 👋  Hy, my name is Caroline Rodrigues:  
 
-Frontend developer with 9+ years of experience in drawing, projecting and maintaining Web applications using HTML, CSS, JS, Angular, React, Vue, IONIC and others frameworks.
+Frontend developer with 9+ years of experience, projecting and maintaining Web applications using HTML, CSS, JS, Angular, React, Vue, IONIC and others frameworks.
 
 
 ## About Me
